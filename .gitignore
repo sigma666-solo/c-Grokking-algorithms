@@ -1,0 +1,17 @@
+# Скомпилированные файлы и библиотеки
+*.obj
+*.exe
+*.out
+*.app
+
+# Папки сборки и временные файлы IDE
+.vscode/
+.vs/
+bin/
+obj/
+out/
+CMakeCache.txt
+CMakeFiles/
+
+# Конфигурации сборщика VS Code (папка .vscode)
+.vscode/
